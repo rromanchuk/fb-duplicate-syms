@@ -6,6 +6,9 @@
 //
 
 import UIKit
+import FacebookCore
+import FacebookLogin
+import FacebookShare
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
